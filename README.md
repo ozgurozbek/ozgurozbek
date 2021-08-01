@@ -6,13 +6,14 @@
 
 Here you'll find a collection of my public products, scripts or code repositories. Almost all of my work or commissioned repositories are private. Remaining are either playground material or small projects. If you have a suggestion or there is something you would like to see me work on in the future, drop an issue **[here](https://github.com/ozgurozbek/ozgurozbek/issues)**!
 
+You should definitely [check out my Random Sidequest Idea Generator](https://xeculus.pythonanywhere.com/)!
+
 ## Contributed Repositories
 
 1. **[XoooX](https://github.com/ozgurozbek-merges/XoooX)**
 1. **[NFA to DFA](https://github.com/ozgurozbek-merges/NFA-to-DFA)**
 1. **[PINCE](https://github.com/ozgurozbek-merges/PINCE)**
 
-You should definitely [check out my Random Sidequest Idea Generator](https://xeculus.pythonanywhere.com/)!
 You can see all my contributions [here](https://github.com/ozgurozbek-merges).
 
 ## If you are a player of my games
