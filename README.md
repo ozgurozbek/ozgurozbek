@@ -18,8 +18,7 @@ You can see all my contributions [here](https://github.com/ozgurozbek-merges).
 
 ## If you are a player of my games
 
-* [You should be visiting this link for D&D content](https://ozgurozbek.github.io/index.html#dnd)
-* [Or this PDF if you are running a game with Teothe](https://ozgurozbek.github.io/assets/index-files/session_zero_teothe.pdf)
+* [You should be visiting this link for D&D content](https://ozgurozbek.github.io/index.html#dnd), [Or this PDF if you are running a game with Teothe](https://ozgurozbek.github.io/assets/index-files/session_zero_teothe.pdf)
 
 * [You should be visiting this link for Ishibako](https://ozgurozbek.github.io/ishibako/download.html) Ishibako is a small puzzle game that uses pickup-rotate mechanics in a tile-based environment.
 
