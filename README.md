@@ -4,7 +4,7 @@
 
 **I'm a hobbyist developer that is interested in building tools and running or playing games.**
 
-Here you'll find a collection of my public products, scripts or code repositories. Almost all of my work or commissioned repositories are private. The remaining are either playground material or small projects. If you have a suggestion or there is something you would like to see me work on in the future, drop an issue **[here](https://github.com/ozgurozbek/ozgurozbek/issues)**!
+Here you'll find a collection of my public products, scripts, or code repositories. Almost all of my work or commissioned repositories are private. The remaining are either playground material or small projects. If you have a suggestion or there is something you would like to see me work on in the future, drop an issue **[here](https://github.com/ozgurozbek/ozgurozbek/issues)**!
 
 You should definitely [check out my Random Sidequest Idea Generator](https://xeculus.pythonanywhere.com/)!
 
@@ -14,15 +14,15 @@ You should definitely [check out my Random Sidequest Idea Generator](https://xec
 1. **[NFA to DFA](https://github.com/ozgurozbek-merges/NFA-to-DFA)**
 1. **[PINCE](https://github.com/ozgurozbek-merges/PINCE)**
 
-You can see all my contributions [here](https://github.com/ozgurozbek-merges).
+You can see all my public contributions [here](https://github.com/ozgurozbek-merges).
 
 ## If you are a player of my games
 
 * [You should be visiting this link for D&D content](https://ozgurozbek.github.io/index.html#dnd), [Or this PDF if you are running a game with Teothe](https://ozgurozbek.github.io/assets/index-files/session_zero_teothe.pdf)
 
-* [You should be visiting this link for Ishibako](https://ozgurozbek.github.io/ishibako/download.html) Ishibako is a small puzzle game that uses pickup-rotate mechanics in a tile-based environment.
+* [You should be here for Ishibako](https://ozgurozbek.github.io/ishibako/download.html), Ishibako is a small puzzle game that uses pickup-rotate mechanics in a tile-based environment.
 
-* [You should be here for Truth or Drink](https://ozgurozbek.github.io/truthordrink/truthordrink.html) Truth or Drink is a question spammer that is web-scraped and can output adult content.
+* [You should click this for Truth or Drink](https://ozgurozbek.github.io/truthordrink/truthordrink.html), Truth or Drink is a question spammer that is web-scraped and can output adult content.
 
 ## You can also find more of my work at
 
