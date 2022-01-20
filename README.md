@@ -10,6 +10,10 @@ You should definitely [check out my Random Sidequest Idea Generator](https://xec
 
 ## Contributed Repositories
 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozgurozbek&hide=issues&count_private=true&show_icons=true&theme=github_dark" />
+</a>
+
 1. **[XoooX](https://github.com/ozgurozbek-merges/XoooX)**
 1. **[NFA to DFA](https://github.com/ozgurozbek-merges/NFA-to-DFA)**
 1. **[PINCE](https://github.com/ozgurozbek-merges/PINCE)**
@@ -38,7 +42,3 @@ You can see all my public contributions [here](https://github.com/ozgurozbek-mer
 * [Literature Review on Applications of Fuzzy Logic Modelling Approaches to Cognitive Radio Systems](https://ozgurozbek.github.io/assets/index-files/bachelorsLiteratureReview.pdf)
 * [Bachelor's Thesis](https://ozgurozbek.github.io/assets/index-files/bachelorsThesis.pdf)
 * [CS Interview Questions](https://ozgurozbek.github.io/assets/index-files/CS-Questions.pdf)
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozgurozbek&hide=issues&count_private=true&show_icons=true&theme=github_dark" />
-</a>
