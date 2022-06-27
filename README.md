@@ -11,7 +11,6 @@ You should definitely [check out my Random Sidequest Idea Generator](https://xec
 ## Contributed Repositories
 
 1. **[XoooX](https://github.com/ozgurozbek-merges/XoooX)**
-1. **[NFA to DFA](https://github.com/ozgurozbek-merges/NFA-to-DFA)**
 1. **[PINCE](https://github.com/ozgurozbek-merges/PINCE)**
 
 You can see all my public contributions [here](https://github.com/ozgurozbek-merges).
