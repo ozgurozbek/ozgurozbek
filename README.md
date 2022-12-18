@@ -16,7 +16,7 @@ You should definitely [check out my Random Sidequest Idea Generator](https://xec
 You can see all my public contributions [here](https://github.com/ozgurozbek-merges).
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozgurozbek&hide=issues&count_private=true&show_icons=true&theme=github_dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ozgurozbek&hide=issues,stars&count_private=true&show_icons=true&theme=github_dark" />
 </a>
 
 ## If you are a player of my games
