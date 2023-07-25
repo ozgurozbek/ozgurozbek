@@ -17,6 +17,10 @@ You should definitely [check out my D&D5E Quest Idea Generator](https://xeculus.
 
 You can see all my public contributions [here](https://github.com/ozgurozbek-merges).
 
+### Private Repositories
+
+I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketingandsales/), [Unico Studio](https://www.linkedin.com/company/unico-studio/) and [Inveon](https://www.linkedin.com/company/inveon/) - [Devends](https://www.linkedin.com/company/devends/about/). Unfortunately, those organizations are private, therefore I can't provide organization repositories.
+
 ## To my players
 
 * [You should be visiting this link for D&D content](https://ozgurozbek.github.io/teothe)
