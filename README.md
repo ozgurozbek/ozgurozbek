@@ -1,3 +1,5 @@
+
+
 # Hi, I'm Ozgur Ozbek
 
 **A computer engineer interested in building tools and interacting with games.**
@@ -44,3 +46,10 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 * [Literature Review on Applications of Fuzzy Logic Modelling Approaches to Cognitive Radio Systems](https://ozgurozbek.github.io/assets/index-files/bachelorsLiteratureReview.pdf)
 * [Unity3D LDRP Online Strategy Game with Mirror Networking and MiniMax AI thesis paper](https://ozgurozbek.github.io/assets/index-files/bachelorsThesis.pdf)
+
+## Recently Played Games
+
+| Ravenswatch | Deadlock | SMITE 2 |
+|-------------|----------|---------|
+| [![Ravenswatch](https://cdn.cloudflare.steamstatic.com/steam/apps/2071280/header.jpg)](https://store.steampowered.com/app/2071280/) | [![Deadlock](https://cdn.cloudflare.steamstatic.com/steam/apps/1422450/header.jpg)](https://store.steampowered.com/app/1422450/) | [![SMITE 2](https://cdn.cloudflare.steamstatic.com/steam/apps/2437170/header.jpg)](https://store.steampowered.com/app/2437170/) |
+| 168 mins | 44 mins | 8 mins |
