@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Ravenswatch | Fantasy Grounds VTT | Deadlock |
-|-------------|---------------------|----------|
-| [![Ravenswatch](https://cdn.cloudflare.steamstatic.com/steam/apps/2071280/header.jpg)](https://store.steampowered.com/app/2071280/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Deadlock](https://cdn.cloudflare.steamstatic.com/steam/apps/1422450/header.jpg)](https://store.steampowered.com/app/1422450/) |
-| 168 mins | 121 mins | 44 mins |
+| Fantasy Grounds VTT | Ravenswatch | Risk of Rain 2 |
+|---------------------|-------------|----------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Ravenswatch](https://cdn.cloudflare.steamstatic.com/steam/apps/2071280/header.jpg)](https://store.steampowered.com/app/2071280/) | [![Risk of Rain 2](https://cdn.cloudflare.steamstatic.com/steam/apps/632360/header.jpg)](https://store.steampowered.com/app/632360/) |
+| 456 mins | 273 mins | 125 mins |
