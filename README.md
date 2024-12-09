@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | Ravenswatch | Risk of Rain 2 |
 |---------------------|-------------|----------------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Ravenswatch](https://cdn.cloudflare.steamstatic.com/steam/apps/2071280/header.jpg)](https://store.steampowered.com/app/2071280/) | [![Risk of Rain 2](https://cdn.cloudflare.steamstatic.com/steam/apps/632360/header.jpg)](https://store.steampowered.com/app/632360/) |
-| 733 mins | 574 mins | 320 mins |
+| 1075 mins | 574 mins | 320 mins |
