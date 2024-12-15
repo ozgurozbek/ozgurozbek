@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | Risk of Rain 2 | Ravenswatch |
-|---------------------|----------------|-------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Risk of Rain 2](https://cdn.cloudflare.steamstatic.com/steam/apps/632360/header.jpg)](https://store.steampowered.com/app/632360/) | [![Ravenswatch](https://cdn.cloudflare.steamstatic.com/steam/apps/2071280/header.jpg)](https://store.steampowered.com/app/2071280/) |
-| 940 mins | 546 mins | 405 mins |
+| Risk of Rain 2 | Fantasy Grounds VTT | Path of Exile 2 |
+|----------------|---------------------|-----------------|
+| [![Risk of Rain 2](https://cdn.cloudflare.steamstatic.com/steam/apps/632360/header.jpg)](https://store.steampowered.com/app/632360/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Path of Exile 2](https://cdn.cloudflare.steamstatic.com/steam/apps/2694490/header.jpg)](https://store.steampowered.com/app/2694490/) |
+| 660 mins | 600 mins | 350 mins |
