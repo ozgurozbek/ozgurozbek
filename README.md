@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Risk of Rain 2 | Fantasy Grounds VTT | Path of Exile 2 |
-|----------------|---------------------|-----------------|
-| [![Risk of Rain 2](https://cdn.cloudflare.steamstatic.com/steam/apps/632360/header.jpg)](https://store.steampowered.com/app/632360/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Path of Exile 2](https://cdn.cloudflare.steamstatic.com/steam/apps/2694490/header.jpg)](https://store.steampowered.com/app/2694490/) |
-| 465 mins | 462 mins | 350 mins |
+| Terraria | Risk of Rain 2 | tModLoader |
+|----------|----------------|------------|
+| [![Terraria](https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg)](https://store.steampowered.com/app/105600/) | [![Risk of Rain 2](https://cdn.cloudflare.steamstatic.com/steam/apps/632360/header.jpg)](https://store.steampowered.com/app/632360/) | [![tModLoader](https://cdn.cloudflare.steamstatic.com/steam/apps/1281930/header.jpg)](https://store.steampowered.com/app/1281930/) |
+| 471 mins | 465 mins | 464 mins |
