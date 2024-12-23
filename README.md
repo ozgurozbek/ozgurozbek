@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Terraria | tModLoader | Risk of Rain 2 |
 |----------|------------|----------------|
 | [![Terraria](https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg)](https://store.steampowered.com/app/105600/) | [![tModLoader](https://cdn.cloudflare.steamstatic.com/steam/apps/1281930/header.jpg)](https://store.steampowered.com/app/1281930/) | [![Risk of Rain 2](https://cdn.cloudflare.steamstatic.com/steam/apps/632360/header.jpg)](https://store.steampowered.com/app/632360/) |
-| 937 mins | 931 mins | 465 mins |
+| 1007 mins | 1001 mins | 547 mins |
