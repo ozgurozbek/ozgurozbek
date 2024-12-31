@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | tModLoader | Terraria | Fantasy Grounds VTT |
 |------------|----------|---------------------|
 | [![tModLoader](https://cdn.cloudflare.steamstatic.com/steam/apps/1281930/header.jpg)](https://store.steampowered.com/app/1281930/) | [![Terraria](https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg)](https://store.steampowered.com/app/105600/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) |
-| 702 mins | 701 mins | 487 mins |
+| 706 mins | 705 mins | 487 mins |
