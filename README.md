@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Red Dead Redemption 2 | Fantasy Grounds VTT | Deep Rock Galactic |
-|-----------------------|---------------------|--------------------|
-| [![Red Dead Redemption 2](https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg)](https://store.steampowered.com/app/1174180/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Deep Rock Galactic](https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg)](https://store.steampowered.com/app/548430/) |
-| 393 mins | 343 mins | 315 mins |
+| tModLoader | Terraria | Red Dead Redemption 2 |
+|------------|----------|-----------------------|
+| [![tModLoader](https://cdn.cloudflare.steamstatic.com/steam/apps/1281930/header.jpg)](https://store.steampowered.com/app/1281930/) | [![Terraria](https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg)](https://store.steampowered.com/app/105600/) | [![Red Dead Redemption 2](https://cdn.cloudflare.steamstatic.com/steam/apps/1174180/header.jpg)](https://store.steampowered.com/app/1174180/) |
+| 496 mins | 496 mins | 393 mins |
