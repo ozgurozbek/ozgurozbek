@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Cities: Skylines | tModLoader | Terraria |
 |------------------|------------|----------|
 | [![Cities: Skylines](https://cdn.cloudflare.steamstatic.com/steam/apps/255710/header.jpg)](https://store.steampowered.com/app/255710/) | [![tModLoader](https://cdn.cloudflare.steamstatic.com/steam/apps/1281930/header.jpg)](https://store.steampowered.com/app/1281930/) | [![Terraria](https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg)](https://store.steampowered.com/app/105600/) |
-| 952 mins | 746 mins | 745 mins |
+| 952 mins | 855 mins | 854 mins |
