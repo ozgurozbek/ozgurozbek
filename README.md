@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | tModLoader | Terraria |
-|---------------------|------------|----------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![tModLoader](https://cdn.cloudflare.steamstatic.com/steam/apps/1281930/header.jpg)](https://store.steampowered.com/app/1281930/) | [![Terraria](https://cdn.cloudflare.steamstatic.com/steam/apps/105600/header.jpg)](https://store.steampowered.com/app/105600/) |
-| 1494 mins | 167 mins | 167 mins |
+| Fantasy Grounds VTT | Age of Empires II: Definitive Edition | tModLoader |
+|---------------------|---------------------------------------|------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Age of Empires II: Definitive Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/813780/header.jpg)](https://store.steampowered.com/app/813780/) | [![tModLoader](https://cdn.cloudflare.steamstatic.com/steam/apps/1281930/header.jpg)](https://store.steampowered.com/app/1281930/) |
+| 1580 mins | 169 mins | 167 mins |
