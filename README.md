@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | Wallpaper Engine | Barotrauma |
-|---------------------|------------------|------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Wallpaper Engine](https://cdn.cloudflare.steamstatic.com/steam/apps/431960/header.jpg)](https://store.steampowered.com/app/431960/) | [![Barotrauma](https://cdn.cloudflare.steamstatic.com/steam/apps/602960/header.jpg)](https://store.steampowered.com/app/602960/) |
-| 597 mins | 272 mins | 149 mins |
+| Fantasy Grounds VTT | Wallpaper Engine | Lethal Company |
+|---------------------|------------------|----------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Wallpaper Engine](https://cdn.cloudflare.steamstatic.com/steam/apps/431960/header.jpg)](https://store.steampowered.com/app/431960/) | [![Lethal Company](https://cdn.cloudflare.steamstatic.com/steam/apps/1966720/header.jpg)](https://store.steampowered.com/app/1966720/) |
+| 488 mins | 273 mins | 189 mins |
