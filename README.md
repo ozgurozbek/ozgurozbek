@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | Wallpaper Engine | Lethal Company |
 |---------------------|------------------|----------------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Wallpaper Engine](https://cdn.cloudflare.steamstatic.com/steam/apps/431960/header.jpg)](https://store.steampowered.com/app/431960/) | [![Lethal Company](https://cdn.cloudflare.steamstatic.com/steam/apps/1966720/header.jpg)](https://store.steampowered.com/app/1966720/) |
-| 488 mins | 273 mins | 189 mins |
+| 315 mins | 273 mins | 189 mins |
