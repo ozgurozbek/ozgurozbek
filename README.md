@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | Wallpaper Engine | Deep Rock Galactic |
-|---------------------|------------------|--------------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Wallpaper Engine](https://cdn.cloudflare.steamstatic.com/steam/apps/431960/header.jpg)](https://store.steampowered.com/app/431960/) | [![Deep Rock Galactic](https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg)](https://store.steampowered.com/app/548430/) |
-| 956 mins | 273 mins | 178 mins |
+| Fantasy Grounds VTT | Deep Rock Galactic | Lethal Company |
+|---------------------|--------------------|----------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Deep Rock Galactic](https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg)](https://store.steampowered.com/app/548430/) | [![Lethal Company](https://cdn.cloudflare.steamstatic.com/steam/apps/1966720/header.jpg)](https://store.steampowered.com/app/1966720/) |
+| 956 mins | 202 mins | 142 mins |
