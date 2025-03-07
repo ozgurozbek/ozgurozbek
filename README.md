@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | Deep Rock Galactic | Lethal Company |
-|---------------------|--------------------|----------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Deep Rock Galactic](https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg)](https://store.steampowered.com/app/548430/) | [![Lethal Company](https://cdn.cloudflare.steamstatic.com/steam/apps/1966720/header.jpg)](https://store.steampowered.com/app/1966720/) |
-| 956 mins | 202 mins | 142 mins |
+| Fantasy Grounds VTT | Deep Rock Galactic | Marvel Rivals |
+|---------------------|--------------------|---------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Deep Rock Galactic](https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg)](https://store.steampowered.com/app/548430/) | [![Marvel Rivals](https://cdn.cloudflare.steamstatic.com/steam/apps/2767030/header.jpg)](https://store.steampowered.com/app/2767030/) |
+| 943 mins | 202 mins | 115 mins |
