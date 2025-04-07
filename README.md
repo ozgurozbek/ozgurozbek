@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| HELLDIVERS™ 2 | Fantasy Grounds VTT | ASTRONEER |
-|---------------|---------------------|-----------|
-| [![HELLDIVERS™ 2](https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg)](https://store.steampowered.com/app/553850/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![ASTRONEER](https://cdn.cloudflare.steamstatic.com/steam/apps/361420/header.jpg)](https://store.steampowered.com/app/361420/) |
-| 766 mins | 299 mins | 235 mins |
+| HELLDIVERS™ 2 | Fantasy Grounds VTT | Kingdom: Classic |
+|---------------|---------------------|------------------|
+| [![HELLDIVERS™ 2](https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg)](https://store.steampowered.com/app/553850/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Kingdom: Classic](https://cdn.cloudflare.steamstatic.com/steam/apps/368230/header.jpg)](https://store.steampowered.com/app/368230/) |
+| 803 mins | 299 mins | 170 mins |
