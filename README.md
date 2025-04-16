@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | HELLDIVERS™ 2 | Fantasy Grounds VTT | Stardew Valley |
 |---------------|---------------------|----------------|
 | [![HELLDIVERS™ 2](https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg)](https://store.steampowered.com/app/553850/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Stardew Valley](https://cdn.cloudflare.steamstatic.com/steam/apps/413150/header.jpg)](https://store.steampowered.com/app/413150/) |
-| 470 mins | 299 mins | 198 mins |
+| 336 mins | 299 mins | 198 mins |
