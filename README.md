@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| HELLDIVERS™ 2 | Dead by Daylight | Balatro |
-|---------------|------------------|---------|
-| [![HELLDIVERS™ 2](https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg)](https://store.steampowered.com/app/553850/) | [![Dead by Daylight](https://cdn.cloudflare.steamstatic.com/steam/apps/381210/header.jpg)](https://store.steampowered.com/app/381210/) | [![Balatro](https://cdn.cloudflare.steamstatic.com/steam/apps/2379780/header.jpg)](https://store.steampowered.com/app/2379780/) |
-| 150 mins | 148 mins | 70 mins |
+| Fantasy Grounds VTT | Dead by Daylight | HELLDIVERS™ 2 |
+|---------------------|------------------|---------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Dead by Daylight](https://cdn.cloudflare.steamstatic.com/steam/apps/381210/header.jpg)](https://store.steampowered.com/app/381210/) | [![HELLDIVERS™ 2](https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg)](https://store.steampowered.com/app/553850/) |
+| 717 mins | 148 mins | 110 mins |
