@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | Stardew Valley | ROUNDS |
 |---------------------|----------------|--------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Stardew Valley](https://cdn.cloudflare.steamstatic.com/steam/apps/413150/header.jpg)](https://store.steampowered.com/app/413150/) | [![ROUNDS](https://cdn.cloudflare.steamstatic.com/steam/apps/1557740/header.jpg)](https://store.steampowered.com/app/1557740/) |
-| 1270 mins | 236 mins | 119 mins |
+| 1335 mins | 236 mins | 119 mins |
