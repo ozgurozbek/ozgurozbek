@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | ROUNDS | R.E.P.O. |
 |---------------------|--------|----------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![ROUNDS](https://cdn.cloudflare.steamstatic.com/steam/apps/1557740/header.jpg)](https://store.steampowered.com/app/1557740/) | [![R.E.P.O.](https://cdn.cloudflare.steamstatic.com/steam/apps/3241660/header.jpg)](https://store.steampowered.com/app/3241660/) |
-| 1249 mins | 119 mins | 112 mins |
+| 1341 mins | 119 mins | 112 mins |
