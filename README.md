@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | ROUNDS | R.E.P.O. |
-|---------------------|--------|----------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![ROUNDS](https://cdn.cloudflare.steamstatic.com/steam/apps/1557740/header.jpg)](https://store.steampowered.com/app/1557740/) | [![R.E.P.O.](https://cdn.cloudflare.steamstatic.com/steam/apps/3241660/header.jpg)](https://store.steampowered.com/app/3241660/) |
-| 1341 mins | 119 mins | 112 mins |
+| Fantasy Grounds VTT | ASTRONEER | R.E.P.O. |
+|---------------------|-----------|----------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![ASTRONEER](https://cdn.cloudflare.steamstatic.com/steam/apps/361420/header.jpg)](https://store.steampowered.com/app/361420/) | [![R.E.P.O.](https://cdn.cloudflare.steamstatic.com/steam/apps/3241660/header.jpg)](https://store.steampowered.com/app/3241660/) |
+| 1341 mins | 272 mins | 112 mins |
