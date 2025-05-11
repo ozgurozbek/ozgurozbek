@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | ASTRONEER | R.E.P.O. |
 |---------------------|-----------|----------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![ASTRONEER](https://cdn.cloudflare.steamstatic.com/steam/apps/361420/header.jpg)](https://store.steampowered.com/app/361420/) | [![R.E.P.O.](https://cdn.cloudflare.steamstatic.com/steam/apps/3241660/header.jpg)](https://store.steampowered.com/app/3241660/) |
-| 1341 mins | 272 mins | 112 mins |
+| 1053 mins | 497 mins | 79 mins |
