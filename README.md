@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | ASTRONEER | Once Human |
 |---------------------|-----------|------------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![ASTRONEER](https://cdn.cloudflare.steamstatic.com/steam/apps/361420/header.jpg)](https://store.steampowered.com/app/361420/) | [![Once Human](https://cdn.cloudflare.steamstatic.com/steam/apps/2139460/header.jpg)](https://store.steampowered.com/app/2139460/) |
-| 940 mins | 659 mins | 517 mins |
+| 908 mins | 659 mins | 522 mins |
