@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | ASTRONEER | Once Human |
-|---------------------|-----------|------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![ASTRONEER](https://cdn.cloudflare.steamstatic.com/steam/apps/361420/header.jpg)](https://store.steampowered.com/app/361420/) | [![Once Human](https://cdn.cloudflare.steamstatic.com/steam/apps/2139460/header.jpg)](https://store.steampowered.com/app/2139460/) |
-| 816 mins | 659 mins | 522 mins |
+| Fantasy Grounds VTT | Once Human | ASTRONEER |
+|---------------------|------------|-----------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Once Human](https://cdn.cloudflare.steamstatic.com/steam/apps/2139460/header.jpg)](https://store.steampowered.com/app/2139460/) | [![ASTRONEER](https://cdn.cloudflare.steamstatic.com/steam/apps/361420/header.jpg)](https://store.steampowered.com/app/361420/) |
+| 816 mins | 522 mins | 364 mins |
