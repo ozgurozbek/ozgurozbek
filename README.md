@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | Once Human | Deep Rock Galactic |
 |---------------------|------------|--------------------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Once Human](https://cdn.cloudflare.steamstatic.com/steam/apps/2139460/header.jpg)](https://store.steampowered.com/app/2139460/) | [![Deep Rock Galactic](https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg)](https://store.steampowered.com/app/548430/) |
-| 1252 mins | 517 mins | 226 mins |
+| 1252 mins | 339 mins | 226 mins |
