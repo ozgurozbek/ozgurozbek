@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | HELLDIVERS™ 2 | Tabletop Simulator |
-|---------------------|---------------|--------------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![HELLDIVERS™ 2](https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg)](https://store.steampowered.com/app/553850/) | [![Tabletop Simulator](https://cdn.cloudflare.steamstatic.com/steam/apps/286160/header.jpg)](https://store.steampowered.com/app/286160/) |
-| 1337 mins | 136 mins | 99 mins |
+| Fantasy Grounds VTT | HELLDIVERS™ 2 | Battlerite |
+|---------------------|---------------|------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![HELLDIVERS™ 2](https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg)](https://store.steampowered.com/app/553850/) | [![Battlerite](https://cdn.cloudflare.steamstatic.com/steam/apps/504370/header.jpg)](https://store.steampowered.com/app/504370/) |
+| 1337 mins | 136 mins | 60 mins |
