@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | HELLDIVERS™ 2 | Battlerite |
 |---------------------|---------------|------------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![HELLDIVERS™ 2](https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg)](https://store.steampowered.com/app/553850/) | [![Battlerite](https://cdn.cloudflare.steamstatic.com/steam/apps/504370/header.jpg)](https://store.steampowered.com/app/504370/) |
-| 1337 mins | 136 mins | 60 mins |
+| 1337 mins | 88 mins | 60 mins |
