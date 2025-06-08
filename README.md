@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | HELLDIVERS™ 2 | Deep Rock Galactic |
 |---------------------|---------------|--------------------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![HELLDIVERS™ 2](https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg)](https://store.steampowered.com/app/553850/) | [![Deep Rock Galactic](https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg)](https://store.steampowered.com/app/548430/) |
-| 1337 mins | 109 mins | 96 mins |
+| 788 mins | 109 mins | 96 mins |
