@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| HELLDIVERS™ 2 |
-|---------------|
-| [![HELLDIVERS™ 2](https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg)](https://store.steampowered.com/app/553850/) |
-| 22 mins |
+| HELLDIVERS™ 2 | Barotrauma |
+|---------------|------------|
+| [![HELLDIVERS™ 2](https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg)](https://store.steampowered.com/app/553850/) | [![Barotrauma](https://cdn.cloudflare.steamstatic.com/steam/apps/602960/header.jpg)](https://store.steampowered.com/app/602960/) |
+| 22 mins | 2 mins |
