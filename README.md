@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | HELLDIVERS™ 2 | Barotrauma |
 |---------------------|---------------|------------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![HELLDIVERS™ 2](https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg)](https://store.steampowered.com/app/553850/) | [![Barotrauma](https://cdn.cloudflare.steamstatic.com/steam/apps/602960/header.jpg)](https://store.steampowered.com/app/602960/) |
-| 30 mins | 22 mins | 2 mins |
+| 269 mins | 22 mins | 2 mins |
