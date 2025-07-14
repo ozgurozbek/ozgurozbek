@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | HELLDIVERS™ 2 | The Outlast Trials |
-|---------------------|---------------|--------------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![HELLDIVERS™ 2](https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg)](https://store.steampowered.com/app/553850/) | [![The Outlast Trials](https://cdn.cloudflare.steamstatic.com/steam/apps/1304930/header.jpg)](https://store.steampowered.com/app/1304930/) |
-| 1092 mins | 67 mins | 60 mins |
+| Fantasy Grounds VTT | The Outlast Trials | HELLDIVERS™ 2 |
+|---------------------|--------------------|---------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![The Outlast Trials](https://cdn.cloudflare.steamstatic.com/steam/apps/1304930/header.jpg)](https://store.steampowered.com/app/1304930/) | [![HELLDIVERS™ 2](https://cdn.cloudflare.steamstatic.com/steam/apps/553850/header.jpg)](https://store.steampowered.com/app/553850/) |
+| 1092 mins | 91 mins | 67 mins |
