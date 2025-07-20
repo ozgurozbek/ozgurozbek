@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | The Outlast Trials | Divinity: Original Sin Enhanced Edition |
-|---------------------|--------------------|-----------------------------------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![The Outlast Trials](https://cdn.cloudflare.steamstatic.com/steam/apps/1304930/header.jpg)](https://store.steampowered.com/app/1304930/) | [![Divinity: Original Sin Enhanced Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/373420/header.jpg)](https://store.steampowered.com/app/373420/) |
-| 1424 mins | 153 mins | 150 mins |
+| Fantasy Grounds VTT | Divinity: Original Sin Enhanced Edition | The Outlast Trials |
+|---------------------|-----------------------------------------|--------------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Divinity: Original Sin Enhanced Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/373420/header.jpg)](https://store.steampowered.com/app/373420/) | [![The Outlast Trials](https://cdn.cloudflare.steamstatic.com/steam/apps/1304930/header.jpg)](https://store.steampowered.com/app/1304930/) |
+| 1892 mins | 332 mins | 153 mins |
