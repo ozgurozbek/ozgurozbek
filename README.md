@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | Ready or Not | Divinity: Original Sin Enhanced Edition |
 |---------------------|--------------|-----------------------------------------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Ready or Not](https://cdn.cloudflare.steamstatic.com/steam/apps/1144200/header.jpg)](https://store.steampowered.com/app/1144200/) | [![Divinity: Original Sin Enhanced Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/373420/header.jpg)](https://store.steampowered.com/app/373420/) |
-| 560 mins | 450 mins | 407 mins |
+| 516 mins | 497 mins | 407 mins |
