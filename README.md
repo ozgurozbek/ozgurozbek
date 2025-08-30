@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Divinity: Original Sin 2 | Fantasy Grounds VTT | Divinity: Original Sin Enhanced Edition |
-|--------------------------|---------------------|-----------------------------------------|
-| [![Divinity: Original Sin 2](https://cdn.cloudflare.steamstatic.com/steam/apps/435150/header.jpg)](https://store.steampowered.com/app/435150/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Divinity: Original Sin Enhanced Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/373420/header.jpg)](https://store.steampowered.com/app/373420/) |
-| 1135 mins | 1018 mins | 388 mins |
+| Divinity: Original Sin 2 | Fantasy Grounds VTT | The Elder Scrolls V: Skyrim Special Edition |
+|--------------------------|---------------------|---------------------------------------------|
+| [![Divinity: Original Sin 2](https://cdn.cloudflare.steamstatic.com/steam/apps/435150/header.jpg)](https://store.steampowered.com/app/435150/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) |
+| 1135 mins | 985 mins | 493 mins |
