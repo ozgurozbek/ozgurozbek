@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | Divinity: Original Sin 2 | The Elder Scrolls V: Skyrim Special Edition |
 |---------------------|--------------------------|---------------------------------------------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Divinity: Original Sin 2](https://cdn.cloudflare.steamstatic.com/steam/apps/435150/header.jpg)](https://store.steampowered.com/app/435150/) | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) |
-| 953 mins | 774 mins | 679 mins |
+| 953 mins | 680 mins | 679 mins |
