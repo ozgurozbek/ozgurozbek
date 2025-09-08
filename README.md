@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | The Elder Scrolls V: Skyrim Special Edition | Cyberpunk 2077 |
 |---------------------|---------------------------------------------|----------------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) | [![Cyberpunk 2077](https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg)](https://store.steampowered.com/app/1091500/) |
-| 964 mins | 679 mins | 255 mins |
+| 963 mins | 679 mins | 255 mins |
