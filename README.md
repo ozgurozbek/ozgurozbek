@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | Cyberpunk 2077 | The Elder Scrolls V: Skyrim Special Edition |
-|---------------------|----------------|---------------------------------------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Cyberpunk 2077](https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg)](https://store.steampowered.com/app/1091500/) | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) |
-| 1039 mins | 423 mins | 185 mins |
+| Fantasy Grounds VTT | Cyberpunk 2077 | PEAK |
+|---------------------|----------------|------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Cyberpunk 2077](https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg)](https://store.steampowered.com/app/1091500/) | [![PEAK](https://cdn.cloudflare.steamstatic.com/steam/apps/3527290/header.jpg)](https://store.steampowered.com/app/3527290/) |
+| 940 mins | 571 mins | 106 mins |
