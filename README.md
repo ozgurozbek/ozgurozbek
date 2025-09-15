@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | Cyberpunk 2077 | PEAK |
 |---------------------|----------------|------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Cyberpunk 2077](https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg)](https://store.steampowered.com/app/1091500/) | [![PEAK](https://cdn.cloudflare.steamstatic.com/steam/apps/3527290/header.jpg)](https://store.steampowered.com/app/3527290/) |
-| 940 mins | 571 mins | 106 mins |
+| 940 mins | 561 mins | 106 mins |
