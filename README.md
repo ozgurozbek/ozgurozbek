@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | Cyberpunk 2077 | PEAK |
-|---------------------|----------------|------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Cyberpunk 2077](https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg)](https://store.steampowered.com/app/1091500/) | [![PEAK](https://cdn.cloudflare.steamstatic.com/steam/apps/3527290/header.jpg)](https://store.steampowered.com/app/3527290/) |
-| 940 mins | 316 mins | 106 mins |
+| Fantasy Grounds VTT | Cyberpunk 2077 | Left 4 Dead 2 |
+|---------------------|----------------|---------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Cyberpunk 2077](https://cdn.cloudflare.steamstatic.com/steam/apps/1091500/header.jpg)](https://store.steampowered.com/app/1091500/) | [![Left 4 Dead 2](https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg)](https://store.steampowered.com/app/550/) |
+| 940 mins | 316 mins | 163 mins |
