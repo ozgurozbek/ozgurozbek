@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Left 4 Dead 2 | Fantasy Grounds VTT | Yakuza 0 |
-|---------------|---------------------|----------|
-| [![Left 4 Dead 2](https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg)](https://store.steampowered.com/app/550/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Yakuza 0](https://cdn.cloudflare.steamstatic.com/steam/apps/638970/header.jpg)](https://store.steampowered.com/app/638970/) |
-| 388 mins | 355 mins | 244 mins |
+| Fantasy Grounds VTT | Left 4 Dead 2 | Yakuza 0 |
+|---------------------|---------------|----------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Left 4 Dead 2](https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg)](https://store.steampowered.com/app/550/) | [![Yakuza 0](https://cdn.cloudflare.steamstatic.com/steam/apps/638970/header.jpg)](https://store.steampowered.com/app/638970/) |
+| 516 mins | 388 mins | 353 mins |
