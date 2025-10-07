@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | Yakuza 0 | Left 4 Dead 2 |
 |---------------------|----------|---------------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Yakuza 0](https://cdn.cloudflare.steamstatic.com/steam/apps/638970/header.jpg)](https://store.steampowered.com/app/638970/) | [![Left 4 Dead 2](https://cdn.cloudflare.steamstatic.com/steam/apps/550/header.jpg)](https://store.steampowered.com/app/550/) |
-| 1234 mins | 479 mins | 205 mins |
+| 1234 mins | 479 mins | 152 mins |
