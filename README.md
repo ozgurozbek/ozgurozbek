@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | Yakuza 0 | Battlerite |
 |---------------------|----------|------------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Yakuza 0](https://cdn.cloudflare.steamstatic.com/steam/apps/638970/header.jpg)](https://store.steampowered.com/app/638970/) | [![Battlerite](https://cdn.cloudflare.steamstatic.com/steam/apps/504370/header.jpg)](https://store.steampowered.com/app/504370/) |
-| 1234 mins | 479 mins | 111 mins |
+| 1208 mins | 480 mins | 111 mins |
