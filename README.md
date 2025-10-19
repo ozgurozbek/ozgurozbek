@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | RimWorld | Battlerite |
-|---------------------|----------|------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![RimWorld](https://cdn.cloudflare.steamstatic.com/steam/apps/294100/header.jpg)](https://store.steampowered.com/app/294100/) | [![Battlerite](https://cdn.cloudflare.steamstatic.com/steam/apps/504370/header.jpg)](https://store.steampowered.com/app/504370/) |
-| 566 mins | 400 mins | 111 mins |
+| RimWorld | The Elder Scrolls V: Skyrim Special Edition | Battlerite |
+|----------|---------------------------------------------|------------|
+| [![RimWorld](https://cdn.cloudflare.steamstatic.com/steam/apps/294100/header.jpg)](https://store.steampowered.com/app/294100/) | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) | [![Battlerite](https://cdn.cloudflare.steamstatic.com/steam/apps/504370/header.jpg)](https://store.steampowered.com/app/504370/) |
+| 400 mins | 140 mins | 111 mins |
