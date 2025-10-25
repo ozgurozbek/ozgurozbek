@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| RimWorld | The Elder Scrolls V: Skyrim Special Edition | Risk of Rain 2 |
-|----------|---------------------------------------------|----------------|
-| [![RimWorld](https://cdn.cloudflare.steamstatic.com/steam/apps/294100/header.jpg)](https://store.steampowered.com/app/294100/) | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) | [![Risk of Rain 2](https://cdn.cloudflare.steamstatic.com/steam/apps/632360/header.jpg)](https://store.steampowered.com/app/632360/) |
-| 400 mins | 140 mins | 55 mins |
+| RimWorld | Fantasy Grounds VTT | Baldur's Gate 3 |
+|----------|---------------------|-----------------|
+| [![RimWorld](https://cdn.cloudflare.steamstatic.com/steam/apps/294100/header.jpg)](https://store.steampowered.com/app/294100/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Baldur's Gate 3](https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg)](https://store.steampowered.com/app/1086940/) |
+| 400 mins | 217 mins | 189 mins |
