@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| RimWorld | Fantasy Grounds VTT | Baldur's Gate 3 |
-|----------|---------------------|-----------------|
-| [![RimWorld](https://cdn.cloudflare.steamstatic.com/steam/apps/294100/header.jpg)](https://store.steampowered.com/app/294100/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Baldur's Gate 3](https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg)](https://store.steampowered.com/app/1086940/) |
-| 400 mins | 217 mins | 189 mins |
+| Fantasy Grounds VTT | RimWorld | Baldur's Gate 3 |
+|---------------------|----------|-----------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![RimWorld](https://cdn.cloudflare.steamstatic.com/steam/apps/294100/header.jpg)](https://store.steampowered.com/app/294100/) | [![Baldur's Gate 3](https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg)](https://store.steampowered.com/app/1086940/) |
+| 496 mins | 400 mins | 210 mins |
