@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | Baldur's Gate 3 | RV There Yet? |
-|---------------------|-----------------|---------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Baldur's Gate 3](https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg)](https://store.steampowered.com/app/1086940/) | [![RV There Yet?](https://cdn.cloudflare.steamstatic.com/steam/apps/3949040/header.jpg)](https://store.steampowered.com/app/3949040/) |
-| 496 mins | 210 mins | 107 mins |
+| Fantasy Grounds VTT | Baldur's Gate 3 | The Elder Scrolls V: Skyrim Special Edition |
+|---------------------|-----------------|---------------------------------------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Baldur's Gate 3](https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg)](https://store.steampowered.com/app/1086940/) | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) |
+| 496 mins | 210 mins | 125 mins |
