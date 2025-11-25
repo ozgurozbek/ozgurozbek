@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Cities: Skylines | Deep Rock Galactic | Fantasy Grounds VTT |
-|------------------|--------------------|---------------------|
-| [![Cities: Skylines](https://cdn.cloudflare.steamstatic.com/steam/apps/255710/header.jpg)](https://store.steampowered.com/app/255710/) | [![Deep Rock Galactic](https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg)](https://store.steampowered.com/app/548430/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) |
-| 904 mins | 274 mins | 243 mins |
+| Cities: Skylines | Fantasy Grounds VTT | Deep Rock Galactic |
+|------------------|---------------------|--------------------|
+| [![Cities: Skylines](https://cdn.cloudflare.steamstatic.com/steam/apps/255710/header.jpg)](https://store.steampowered.com/app/255710/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Deep Rock Galactic](https://cdn.cloudflare.steamstatic.com/steam/apps/548430/header.jpg)](https://store.steampowered.com/app/548430/) |
+| 904 mins | 243 mins | 204 mins |
