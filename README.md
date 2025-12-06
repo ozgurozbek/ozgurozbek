@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Cities: Skylines | The Elder Scrolls V: Skyrim Special Edition |
-|------------------|---------------------------------------------|
-| [![Cities: Skylines](https://cdn.cloudflare.steamstatic.com/steam/apps/255710/header.jpg)](https://store.steampowered.com/app/255710/) | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) |
-| 846 mins | 152 mins |
+| Cities: Skylines | The Elder Scrolls V: Skyrim Special Edition | Fantasy Grounds VTT |
+|------------------|---------------------------------------------|---------------------|
+| [![Cities: Skylines](https://cdn.cloudflare.steamstatic.com/steam/apps/255710/header.jpg)](https://store.steampowered.com/app/255710/) | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) |
+| 689 mins | 362 mins | 282 mins |
