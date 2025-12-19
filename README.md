@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | The Elder Scrolls V: Skyrim Special Edition | Fantasy Grounds VTT | Cities: Skylines |
 |---------------------------------------------|---------------------|------------------|
 | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Cities: Skylines](https://cdn.cloudflare.steamstatic.com/steam/apps/255710/header.jpg)](https://store.steampowered.com/app/255710/) |
-| 1534 mins | 282 mins | 278 mins |
+| 1649 mins | 392 mins | 119 mins |
