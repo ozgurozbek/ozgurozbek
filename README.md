@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | The Elder Scrolls V: Skyrim Special Edition | Fantasy Grounds VTT | Warhammer: Vermintide 2 |
 |---------------------------------------------|---------------------|-------------------------|
 | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Warhammer: Vermintide 2](https://cdn.cloudflare.steamstatic.com/steam/apps/552500/header.jpg)](https://store.steampowered.com/app/552500/) |
-| 2239 mins | 1289 mins | 579 mins |
+| 2239 mins | 1352 mins | 579 mins |
