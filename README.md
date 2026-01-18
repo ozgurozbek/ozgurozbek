@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Factorio | The Elder Scrolls V: Skyrim Special Edition | Fantasy Grounds VTT |
-|----------|---------------------------------------------|---------------------|
-| [![Factorio](https://cdn.cloudflare.steamstatic.com/steam/apps/427520/header.jpg)](https://store.steampowered.com/app/427520/) | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) |
-| 669 mins | 292 mins | 281 mins |
+| Factorio | Fantasy Grounds VTT | Baldur's Gate 3 |
+|----------|---------------------|-----------------|
+| [![Factorio](https://cdn.cloudflare.steamstatic.com/steam/apps/427520/header.jpg)](https://store.steampowered.com/app/427520/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Baldur's Gate 3](https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg)](https://store.steampowered.com/app/1086940/) |
+| 669 mins | 281 mins | 184 mins |
