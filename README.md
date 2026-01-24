@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Factorio | Fantasy Grounds VTT | Baldur's Gate 3 |
-|----------|---------------------|-----------------|
-| [![Factorio](https://cdn.cloudflare.steamstatic.com/steam/apps/427520/header.jpg)](https://store.steampowered.com/app/427520/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Baldur's Gate 3](https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg)](https://store.steampowered.com/app/1086940/) |
-| 669 mins | 297 mins | 184 mins |
+| Factorio | Baldur's Gate 3 | Ravenswatch |
+|----------|-----------------|-------------|
+| [![Factorio](https://cdn.cloudflare.steamstatic.com/steam/apps/427520/header.jpg)](https://store.steampowered.com/app/427520/) | [![Baldur's Gate 3](https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg)](https://store.steampowered.com/app/1086940/) | [![Ravenswatch](https://cdn.cloudflare.steamstatic.com/steam/apps/2071280/header.jpg)](https://store.steampowered.com/app/2071280/) |
+| 669 mins | 184 mins | 105 mins |
