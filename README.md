@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Baldur's Gate 3 | Factorio | Ravenswatch |
-|-----------------|----------|-------------|
-| [![Baldur's Gate 3](https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg)](https://store.steampowered.com/app/1086940/) | [![Factorio](https://cdn.cloudflare.steamstatic.com/steam/apps/427520/header.jpg)](https://store.steampowered.com/app/427520/) | [![Ravenswatch](https://cdn.cloudflare.steamstatic.com/steam/apps/2071280/header.jpg)](https://store.steampowered.com/app/2071280/) |
-| 274 mins | 201 mins | 105 mins |
+| Baldur's Gate 3 | Ravenswatch | Age of Empires II: Definitive Edition |
+|-----------------|-------------|---------------------------------------|
+| [![Baldur's Gate 3](https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg)](https://store.steampowered.com/app/1086940/) | [![Ravenswatch](https://cdn.cloudflare.steamstatic.com/steam/apps/2071280/header.jpg)](https://store.steampowered.com/app/2071280/) | [![Age of Empires II: Definitive Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/813780/header.jpg)](https://store.steampowered.com/app/813780/) |
+| 494 mins | 105 mins | 59 mins |
