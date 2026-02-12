@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | Baldur's Gate 3 | Factorio |
 |---------------------|-----------------|----------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Baldur's Gate 3](https://cdn.cloudflare.steamstatic.com/steam/apps/1086940/header.jpg)](https://store.steampowered.com/app/1086940/) | [![Factorio](https://cdn.cloudflare.steamstatic.com/steam/apps/427520/header.jpg)](https://store.steampowered.com/app/427520/) |
-| 1394 mins | 1078 mins | 256 mins |
+| 1332 mins | 1078 mins | 424 mins |
