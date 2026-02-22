@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | Mount & Blade II: Bannerlord | Factorio |
 |---------------------|------------------------------|----------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Mount & Blade II: Bannerlord](https://cdn.cloudflare.steamstatic.com/steam/apps/261550/header.jpg)](https://store.steampowered.com/app/261550/) | [![Factorio](https://cdn.cloudflare.steamstatic.com/steam/apps/427520/header.jpg)](https://store.steampowered.com/app/427520/) |
-| 1207 mins | 911 mins | 873 mins |
+| 1061 mins | 1059 mins | 616 mins |
