@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | Mount & Blade II: Bannerlord | Age of Empires II: Definitive Edition |
-|---------------------|------------------------------|---------------------------------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Mount & Blade II: Bannerlord](https://cdn.cloudflare.steamstatic.com/steam/apps/261550/header.jpg)](https://store.steampowered.com/app/261550/) | [![Age of Empires II: Definitive Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/813780/header.jpg)](https://store.steampowered.com/app/813780/) |
-| 1180 mins | 1180 mins | 68 mins |
+| Mount & Blade II: Bannerlord | Fantasy Grounds VTT | ASTRONEER |
+|------------------------------|---------------------|-----------|
+| [![Mount & Blade II: Bannerlord](https://cdn.cloudflare.steamstatic.com/steam/apps/261550/header.jpg)](https://store.steampowered.com/app/261550/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![ASTRONEER](https://cdn.cloudflare.steamstatic.com/steam/apps/361420/header.jpg)](https://store.steampowered.com/app/361420/) |
+| 1458 mins | 1117 mins | 96 mins |
