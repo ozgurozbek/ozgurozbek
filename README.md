@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | Mount & Blade II: Bannerlord | ASTRONEER |
-|---------------------|------------------------------|-----------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Mount & Blade II: Bannerlord](https://cdn.cloudflare.steamstatic.com/steam/apps/261550/header.jpg)](https://store.steampowered.com/app/261550/) | [![ASTRONEER](https://cdn.cloudflare.steamstatic.com/steam/apps/361420/header.jpg)](https://store.steampowered.com/app/361420/) |
-| 928 mins | 500 mins | 96 mins |
+| Fantasy Grounds VTT | Mount & Blade II: Bannerlord |
+|---------------------|------------------------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Mount & Blade II: Bannerlord](https://cdn.cloudflare.steamstatic.com/steam/apps/261550/header.jpg)](https://store.steampowered.com/app/261550/) |
+| 974 mins | 409 mins |
