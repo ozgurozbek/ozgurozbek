@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Mount & Blade II: Bannerlord |
 |------------------------------|
 | [![Mount & Blade II: Bannerlord](https://cdn.cloudflare.steamstatic.com/steam/apps/261550/header.jpg)](https://store.steampowered.com/app/261550/) |
-| 477 mins |
+| 362 mins |
