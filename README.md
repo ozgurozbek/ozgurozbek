@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | Mount & Blade II: Bannerlord | Wrap House Simulator🌯 |
-|---------------------|------------------------------|-----------------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Mount & Blade II: Bannerlord](https://cdn.cloudflare.steamstatic.com/steam/apps/261550/header.jpg)](https://store.steampowered.com/app/261550/) | [![Wrap House Simulator🌯](https://cdn.cloudflare.steamstatic.com/steam/apps/3533100/header.jpg)](https://store.steampowered.com/app/3533100/) |
-| 897 mins | 203 mins | 159 mins |
+| Fantasy Grounds VTT | Wrap House Simulator🌯 | Mount & Blade II: Bannerlord |
+|---------------------|-----------------------|------------------------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Wrap House Simulator🌯](https://cdn.cloudflare.steamstatic.com/steam/apps/3533100/header.jpg)](https://store.steampowered.com/app/3533100/) | [![Mount & Blade II: Bannerlord](https://cdn.cloudflare.steamstatic.com/steam/apps/261550/header.jpg)](https://store.steampowered.com/app/261550/) |
+| 897 mins | 159 mins | 143 mins |
