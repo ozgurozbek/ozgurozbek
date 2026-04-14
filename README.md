@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | Wrap House Simulator🌯 | Mount & Blade II: Bannerlord |
 |---------------------|-----------------------|------------------------------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Wrap House Simulator🌯](https://cdn.cloudflare.steamstatic.com/steam/apps/3533100/header.jpg)](https://store.steampowered.com/app/3533100/) | [![Mount & Blade II: Bannerlord](https://cdn.cloudflare.steamstatic.com/steam/apps/261550/header.jpg)](https://store.steampowered.com/app/261550/) |
-| 897 mins | 159 mins | 143 mins |
+| 897 mins | 159 mins | 43 mins |
