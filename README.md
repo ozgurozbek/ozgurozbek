@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | Wrap House Simulator🌯 | Wallpaper Engine |
-|---------------------|-----------------------|------------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Wrap House Simulator🌯](https://cdn.cloudflare.steamstatic.com/steam/apps/3533100/header.jpg)](https://store.steampowered.com/app/3533100/) | [![Wallpaper Engine](https://cdn.cloudflare.steamstatic.com/steam/apps/431960/header.jpg)](https://store.steampowered.com/app/431960/) |
-| 897 mins | 159 mins | 131 mins |
+| Fantasy Grounds VTT | Cities: Skylines II | Wrap House Simulator🌯 |
+|---------------------|---------------------|-----------------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Cities: Skylines II](https://cdn.cloudflare.steamstatic.com/steam/apps/949230/header.jpg)](https://store.steampowered.com/app/949230/) | [![Wrap House Simulator🌯](https://cdn.cloudflare.steamstatic.com/steam/apps/3533100/header.jpg)](https://store.steampowered.com/app/3533100/) |
+| 1047 mins | 243 mins | 159 mins |
