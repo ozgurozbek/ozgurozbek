@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | Cities: Skylines II | Wrap House Simulator🌯 |
-|---------------------|---------------------|-----------------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Cities: Skylines II](https://cdn.cloudflare.steamstatic.com/steam/apps/949230/header.jpg)](https://store.steampowered.com/app/949230/) | [![Wrap House Simulator🌯](https://cdn.cloudflare.steamstatic.com/steam/apps/3533100/header.jpg)](https://store.steampowered.com/app/3533100/) |
-| 1570 mins | 326 mins | 159 mins |
+| Fantasy Grounds VTT | Cities: Skylines II | Warhammer 40,000: Darktide |
+|---------------------|---------------------|----------------------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Cities: Skylines II](https://cdn.cloudflare.steamstatic.com/steam/apps/949230/header.jpg)](https://store.steampowered.com/app/949230/) | [![Warhammer 40,000: Darktide](https://cdn.cloudflare.steamstatic.com/steam/apps/1361210/header.jpg)](https://store.steampowered.com/app/1361210/) |
+| 1570 mins | 326 mins | 179 mins |
