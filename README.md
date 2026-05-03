@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | Warhammer 40,000: Darktide | Cities: Skylines II |
-|---------------------|----------------------------|---------------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Warhammer 40,000: Darktide](https://cdn.cloudflare.steamstatic.com/steam/apps/1361210/header.jpg)](https://store.steampowered.com/app/1361210/) | [![Cities: Skylines II](https://cdn.cloudflare.steamstatic.com/steam/apps/949230/header.jpg)](https://store.steampowered.com/app/949230/) |
-| 498 mins | 179 mins | 82 mins |
+| Warhammer 40,000: Darktide |
+|----------------------------|
+| [![Warhammer 40,000: Darktide](https://cdn.cloudflare.steamstatic.com/steam/apps/1361210/header.jpg)](https://store.steampowered.com/app/1361210/) |
+| 146 mins |
