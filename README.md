@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Warhammer 40,000: Darktide |
 |----------------------------|
 | [![Warhammer 40,000: Darktide](https://cdn.cloudflare.steamstatic.com/steam/apps/1361210/header.jpg)](https://store.steampowered.com/app/1361210/) |
-| 126 mins |
+| 76 mins |
