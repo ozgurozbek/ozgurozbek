@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | Warhammer 40,000: Darktide |
 |---------------------|----------------------------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Warhammer 40,000: Darktide](https://cdn.cloudflare.steamstatic.com/steam/apps/1361210/header.jpg)](https://store.steampowered.com/app/1361210/) |
-| 666 mins | 304 mins |
+| 672 mins | 304 mins |
