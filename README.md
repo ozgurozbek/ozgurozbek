@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | Warhammer 40,000: Darktide | The Elder Scrolls IV: Oblivion Remastered |
-|---------------------|----------------------------|-------------------------------------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Warhammer 40,000: Darktide](https://cdn.cloudflare.steamstatic.com/steam/apps/1361210/header.jpg)](https://store.steampowered.com/app/1361210/) | [![The Elder Scrolls IV: Oblivion Remastered](https://cdn.cloudflare.steamstatic.com/steam/apps/2623190/header.jpg)](https://store.steampowered.com/app/2623190/) |
-| 666 mins | 228 mins | 119 mins |
+| Fantasy Grounds VTT | The Elder Scrolls IV: Oblivion Remastered | Dwarf Fortress |
+|---------------------|-------------------------------------------|----------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![The Elder Scrolls IV: Oblivion Remastered](https://cdn.cloudflare.steamstatic.com/steam/apps/2623190/header.jpg)](https://store.steampowered.com/app/2623190/) | [![Dwarf Fortress](https://cdn.cloudflare.steamstatic.com/steam/apps/975370/header.jpg)](https://store.steampowered.com/app/975370/) |
+| 273 mins | 265 mins | 65 mins |
