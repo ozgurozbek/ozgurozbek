@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | The Elder Scrolls IV: Oblivion Remastered | Don't Starve Together |
 |---------------------|-------------------------------------------|-----------------------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![The Elder Scrolls IV: Oblivion Remastered](https://cdn.cloudflare.steamstatic.com/steam/apps/2623190/header.jpg)](https://store.steampowered.com/app/2623190/) | [![Don't Starve Together](https://cdn.cloudflare.steamstatic.com/steam/apps/322330/header.jpg)](https://store.steampowered.com/app/322330/) |
-| 266 mins | 265 mins | 105 mins |
+| 266 mins | 222 mins | 179 mins |
