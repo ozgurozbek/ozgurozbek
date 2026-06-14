@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | Cities: Skylines II | Don't Starve Together |
-|---------------------|---------------------|-----------------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Cities: Skylines II](https://cdn.cloudflare.steamstatic.com/steam/apps/949230/header.jpg)](https://store.steampowered.com/app/949230/) | [![Don't Starve Together](https://cdn.cloudflare.steamstatic.com/steam/apps/322330/header.jpg)](https://store.steampowered.com/app/322330/) |
-| 295 mins | 291 mins | 74 mins |
+| Cities: Skylines II | Fantasy Grounds VTT | Canvas of Kings |
+|---------------------|---------------------|-----------------|
+| [![Cities: Skylines II](https://cdn.cloudflare.steamstatic.com/steam/apps/949230/header.jpg)](https://store.steampowered.com/app/949230/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Canvas of Kings](https://cdn.cloudflare.steamstatic.com/steam/apps/2498570/header.jpg)](https://store.steampowered.com/app/2498570/) |
+| 649 mins | 295 mins | 59 mins |
