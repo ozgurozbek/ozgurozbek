@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Cities: Skylines II | Fantasy Grounds VTT | Canvas of Kings |
 |---------------------|---------------------|-----------------|
 | [![Cities: Skylines II](https://cdn.cloudflare.steamstatic.com/steam/apps/949230/header.jpg)](https://store.steampowered.com/app/949230/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Canvas of Kings](https://cdn.cloudflare.steamstatic.com/steam/apps/2498570/header.jpg)](https://store.steampowered.com/app/2498570/) |
-| 649 mins | 295 mins | 59 mins |
+| 678 mins | 295 mins | 59 mins |
