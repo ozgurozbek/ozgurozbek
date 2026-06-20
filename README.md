@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Cities: Skylines II | Fantasy Grounds VTT | STEINS;GATE |
-|---------------------|---------------------|-------------|
-| [![Cities: Skylines II](https://cdn.cloudflare.steamstatic.com/steam/apps/949230/header.jpg)](https://store.steampowered.com/app/949230/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![STEINS;GATE](https://cdn.cloudflare.steamstatic.com/steam/apps/412830/header.jpg)](https://store.steampowered.com/app/412830/) |
-| 678 mins | 195 mins | 161 mins |
+| Cities: Skylines II | STEINS;GATE | Canvas of Kings |
+|---------------------|-------------|-----------------|
+| [![Cities: Skylines II](https://cdn.cloudflare.steamstatic.com/steam/apps/949230/header.jpg)](https://store.steampowered.com/app/949230/) | [![STEINS;GATE](https://cdn.cloudflare.steamstatic.com/steam/apps/412830/header.jpg)](https://store.steampowered.com/app/412830/) | [![Canvas of Kings](https://cdn.cloudflare.steamstatic.com/steam/apps/2498570/header.jpg)](https://store.steampowered.com/app/2498570/) |
+| 678 mins | 161 mins | 59 mins |
