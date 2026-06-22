@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Cities: Skylines II | STEINS;GATE | Canvas of Kings |
 |---------------------|-------------|-----------------|
 | [![Cities: Skylines II](https://cdn.cloudflare.steamstatic.com/steam/apps/949230/header.jpg)](https://store.steampowered.com/app/949230/) | [![STEINS;GATE](https://cdn.cloudflare.steamstatic.com/steam/apps/412830/header.jpg)](https://store.steampowered.com/app/412830/) | [![Canvas of Kings](https://cdn.cloudflare.steamstatic.com/steam/apps/2498570/header.jpg)](https://store.steampowered.com/app/2498570/) |
-| 549 mins | 161 mins | 59 mins |
+| 513 mins | 161 mins | 59 mins |
