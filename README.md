@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | PAYDAY 2 | Fantasy Grounds VTT | Cult of the Lamb |
 |----------|---------------------|------------------|
 | [![PAYDAY 2](https://cdn.cloudflare.steamstatic.com/steam/apps/218620/header.jpg)](https://store.steampowered.com/app/218620/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Cult of the Lamb](https://cdn.cloudflare.steamstatic.com/steam/apps/1313140/header.jpg)](https://store.steampowered.com/app/1313140/) |
-| 419 mins | 281 mins | 204 mins |
+| 500 mins | 281 mins | 204 mins |
