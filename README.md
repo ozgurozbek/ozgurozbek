@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| PAYDAY 2 | Fantasy Grounds VTT | Tabletop Simulator |
-|----------|---------------------|--------------------|
-| [![PAYDAY 2](https://cdn.cloudflare.steamstatic.com/steam/apps/218620/header.jpg)](https://store.steampowered.com/app/218620/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Tabletop Simulator](https://cdn.cloudflare.steamstatic.com/steam/apps/286160/header.jpg)](https://store.steampowered.com/app/286160/) |
-| 500 mins | 281 mins | 140 mins |
+| Fantasy Grounds VTT | PAYDAY 2 | Tabletop Simulator |
+|---------------------|----------|--------------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![PAYDAY 2](https://cdn.cloudflare.steamstatic.com/steam/apps/218620/header.jpg)](https://store.steampowered.com/app/218620/) | [![Tabletop Simulator](https://cdn.cloudflare.steamstatic.com/steam/apps/286160/header.jpg)](https://store.steampowered.com/app/286160/) |
+| 281 mins | 203 mins | 140 mins |
