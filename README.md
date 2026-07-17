@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | PAYDAY 2 | The Elder Scrolls V: Skyrim Special Edition |
 |---------------------|----------|---------------------------------------------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![PAYDAY 2](https://cdn.cloudflare.steamstatic.com/steam/apps/218620/header.jpg)](https://store.steampowered.com/app/218620/) | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) |
-| 281 mins | 180 mins | 161 mins |
+| 288 mins | 180 mins | 161 mins |
