@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | The Elder Scrolls V: Skyrim Special Edition | Tabletop Simulator |
-|---------------------|---------------------------------------------|--------------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) | [![Tabletop Simulator](https://cdn.cloudflare.steamstatic.com/steam/apps/286160/header.jpg)](https://store.steampowered.com/app/286160/) |
-| 610 mins | 161 mins | 134 mins |
+| Fantasy Grounds VTT | The Elder Scrolls V: Skyrim Special Edition | R.E.P.O. |
+|---------------------|---------------------------------------------|----------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) | [![R.E.P.O.](https://cdn.cloudflare.steamstatic.com/steam/apps/3241660/header.jpg)](https://store.steampowered.com/app/3241660/) |
+| 937 mins | 161 mins | 128 mins |
