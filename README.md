@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | Warhammer: Vermintide 2 | R.E.P.O. |
 |---------------------|-------------------------|----------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Warhammer: Vermintide 2](https://cdn.cloudflare.steamstatic.com/steam/apps/552500/header.jpg)](https://store.steampowered.com/app/552500/) | [![R.E.P.O.](https://cdn.cloudflare.steamstatic.com/steam/apps/3241660/header.jpg)](https://store.steampowered.com/app/3241660/) |
-| 1539 mins | 372 mins | 128 mins |
+| 1599 mins | 372 mins | 128 mins |
