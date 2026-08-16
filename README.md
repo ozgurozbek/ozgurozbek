@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | The Elder Scrolls V: Skyrim Special Edition | Milk outside a bag of milk outside a bag of milk |
-|---------------------|---------------------------------------------|--------------------------------------------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) | [![Milk outside a bag of milk outside a bag of milk](https://cdn.cloudflare.steamstatic.com/steam/apps/1604000/header.jpg)](https://store.steampowered.com/app/1604000/) |
-| 404 mins | 327 mins | 84 mins |
+| The Elder Scrolls V: Skyrim Special Edition | Fantasy Grounds VTT | Milk outside a bag of milk outside a bag of milk |
+|---------------------------------------------|---------------------|--------------------------------------------------|
+| [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Milk outside a bag of milk outside a bag of milk](https://cdn.cloudflare.steamstatic.com/steam/apps/1604000/header.jpg)](https://store.steampowered.com/app/1604000/) |
+| 327 mins | 103 mins | 84 mins |
