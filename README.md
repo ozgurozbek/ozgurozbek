@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | The Elder Scrolls V: Skyrim Special Edition | SpaceEngine |
 |---------------------|---------------------------------------------|-------------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) | [![SpaceEngine](https://cdn.cloudflare.steamstatic.com/steam/apps/314650/header.jpg)](https://store.steampowered.com/app/314650/) |
-| 569 mins | 445 mins | 25 mins |
+| 1079 mins | 445 mins | 25 mins |
