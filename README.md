@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | The Elder Scrolls V: Skyrim Special Edition | Fantasy Grounds VTT | Forza Horizon 4 |
 |---------------------------------------------|---------------------|-----------------|
 | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Forza Horizon 4](https://cdn.cloudflare.steamstatic.com/steam/apps/1293830/header.jpg)](https://store.steampowered.com/app/1293830/) |
-| 745 mins | 727 mins | 141 mins |
+| 745 mins | 511 mins | 141 mins |
