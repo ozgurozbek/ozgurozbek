@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| The Elder Scrolls V: Skyrim Special Edition | Fantasy Grounds VTT | Forza Horizon 4 |
-|---------------------------------------------|---------------------|-----------------|
-| [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Forza Horizon 4](https://cdn.cloudflare.steamstatic.com/steam/apps/1293830/header.jpg)](https://store.steampowered.com/app/1293830/) |
-| 574 mins | 511 mins | 141 mins |
+| Fantasy Grounds VTT | The Elder Scrolls V: Skyrim Special Edition | Darkest Dungeon® II |
+|---------------------|---------------------------------------------|---------------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) | [![Darkest Dungeon® II](https://cdn.cloudflare.steamstatic.com/steam/apps/1940340/header.jpg)](https://store.steampowered.com/app/1940340/) |
+| 511 mins | 502 mins | 116 mins |
