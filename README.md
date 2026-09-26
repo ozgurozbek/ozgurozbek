@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | The Elder Scrolls V: Skyrim Special Edition | Darkest Dungeon® II |
-|---------------------|---------------------------------------------|---------------------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) | [![Darkest Dungeon® II](https://cdn.cloudflare.steamstatic.com/steam/apps/1940340/header.jpg)](https://store.steampowered.com/app/1940340/) |
-| 363 mins | 340 mins | 116 mins |
+| The Elder Scrolls V: Skyrim Special Edition | Darkest Dungeon® II |
+|---------------------------------------------|---------------------|
+| [![The Elder Scrolls V: Skyrim Special Edition](https://cdn.cloudflare.steamstatic.com/steam/apps/489830/header.jpg)](https://store.steampowered.com/app/489830/) | [![Darkest Dungeon® II](https://cdn.cloudflare.steamstatic.com/steam/apps/1940340/header.jpg)](https://store.steampowered.com/app/1940340/) |
+| 340 mins | 116 mins |
