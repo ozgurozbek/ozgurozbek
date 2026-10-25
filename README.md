@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | Valheim |
-|---------------------|---------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Valheim](https://cdn.cloudflare.steamstatic.com/steam/apps/892970/header.jpg)](https://store.steampowered.com/app/892970/) |
-| 918 mins | 40 mins |
+| Fantasy Grounds VTT |
+|---------------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) |
+| 885 mins |
