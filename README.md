@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Valheim | Fantasy Grounds VTT | Battlerite |
 |---------|---------------------|------------|
 | [![Valheim](https://cdn.cloudflare.steamstatic.com/steam/apps/892970/header.jpg)](https://store.steampowered.com/app/892970/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Battlerite](https://cdn.cloudflare.steamstatic.com/steam/apps/504370/header.jpg)](https://store.steampowered.com/app/504370/) |
-| 531 mins | 260 mins | 3 mins |
+| 591 mins | 260 mins | 3 mins |
