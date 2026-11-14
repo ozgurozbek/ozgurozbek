@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Valheim | Fantasy Grounds VTT | Hades |
 |---------|---------------------|-------|
 | [![Valheim](https://cdn.cloudflare.steamstatic.com/steam/apps/892970/header.jpg)](https://store.steampowered.com/app/892970/) | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Hades](https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/header.jpg)](https://store.steampowered.com/app/1145360/) |
-| 1322 mins | 425 mins | 87 mins |
+| 1322 mins | 965 mins | 126 mins |
