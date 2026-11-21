@@ -52,4 +52,4 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 | Fantasy Grounds VTT | Valheim | Starfield |
 |---------------------|---------|-----------|
 | [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Valheim](https://cdn.cloudflare.steamstatic.com/steam/apps/892970/header.jpg)](https://store.steampowered.com/app/892970/) | [![Starfield](https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/header.jpg)](https://store.steampowered.com/app/1716740/) |
-| 1227 mins | 790 mins | 227 mins |
+| 1445 mins | 653 mins | 227 mins |
