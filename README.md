@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | Valheim | Starfield |
-|---------------------|---------|-----------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Valheim](https://cdn.cloudflare.steamstatic.com/steam/apps/892970/header.jpg)](https://store.steampowered.com/app/892970/) | [![Starfield](https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/header.jpg)](https://store.steampowered.com/app/1716740/) |
-| 1445 mins | 653 mins | 227 mins |
+| Fantasy Grounds VTT | Starfield | Valheim |
+|---------------------|-----------|---------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Starfield](https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/header.jpg)](https://store.steampowered.com/app/1716740/) | [![Valheim](https://cdn.cloudflare.steamstatic.com/steam/apps/892970/header.jpg)](https://store.steampowered.com/app/892970/) |
+| 1163 mins | 730 mins | 559 mins |
