@@ -49,7 +49,7 @@ I worked for [Toyota TM&S](https://www.linkedin.com/company/toyotaturkeymarketin
 
 ## Recently Played Games
 
-| Fantasy Grounds VTT | Starfield | Hades |
-|---------------------|-----------|-------|
-| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Starfield](https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/header.jpg)](https://store.steampowered.com/app/1716740/) | [![Hades](https://cdn.cloudflare.steamstatic.com/steam/apps/1145360/header.jpg)](https://store.steampowered.com/app/1145360/) |
-| 1163 mins | 730 mins | 304 mins |
+| Fantasy Grounds VTT | Starfield | For The King |
+|---------------------|-----------|--------------|
+| [![Fantasy Grounds VTT](https://cdn.cloudflare.steamstatic.com/steam/apps/1196310/header.jpg)](https://store.steampowered.com/app/1196310/) | [![Starfield](https://cdn.cloudflare.steamstatic.com/steam/apps/1716740/header.jpg)](https://store.steampowered.com/app/1716740/) | [![For The King](https://cdn.cloudflare.steamstatic.com/steam/apps/527230/header.jpg)](https://store.steampowered.com/app/527230/) |
+| 1163 mins | 730 mins | 328 mins |
